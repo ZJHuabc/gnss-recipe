@@ -26,6 +26,10 @@ Total electron content (TEC) of ionosphere provided by Madrigal
 
 <http://millstonehill.haystack.mit.edu>
 
+pyTMD a Python-based tidal prediction software to compute ocean, solid Earth, load and pole tide variations
+
+<https://pytmd.readthedocs.io/en/latest/>
+
 Global Ecosystem Dynamics Investigation (GEDI) LiDAR onboard ISS
 
 <https://gedi.umd.edu/instrument/instrument-overview/>
