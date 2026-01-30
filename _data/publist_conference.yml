@@ -13,6 +13,14 @@
   link:
     url: https://www2.securecms.com/NRSM2026/TempDev/view_paper.php?PaperNum=1292
     display: URSI NRSM, 2026
+
+- title: "Inland Water Surface Height Estimation Using Spire Delay Doppler Maps of GNSS Reflection Signals: Qinghai Lake Case Study"
+  image:
+  authors: Jiahua Zhang and Jan-Peter Weiss
+  year: Sep, 2025
+  link:
+    url: https://www.ion.org/gnss/abstracts.cfm?paperID=16059
+    display: ION GNSS+, 2025
     
 - title: "Inverting Soil Moisture from GNSS-R Reflectivity Using a Semi-empirical Model"
   image:
