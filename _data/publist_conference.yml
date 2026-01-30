@@ -1,10 +1,58 @@
+- title: "Finer-resolution Sea Ice Detection Using Spire Near-Nadir GNSS-R and SMAP"
+  image:
+  authors: Ming Li, Jiahua Zhang, Jan Weiss, John Braun, William Gullotta, Maggie Sleziak
+  year: Jan, 2026
+  link:
+    url: https://www.nrsmboulder.org/view_paper.php?PaperNum=1249#top
+    display: URSI NRSM, 2026
+    
+- title: "GNSS Radio Frequency Interference Risk Mapping of COSMIC-2 POD Antennas"
+  image:
+  authors: Jiahua Zhang, Douglas Hunt, Jan-Peter Weiss, John Braun
+  year: Jan, 2026
+  link:
+    url: https://www2.securecms.com/NRSM2026/TempDev/view_paper.php?PaperNum=1292
+    display: URSI NRSM, 2026
+    
+- title: "Inverting Soil Moisture from GNSS-R Reflectivity Using a Semi-empirical Model"
+  image:
+  authors: Jiahua Zhang, Ming Li, John Braun, Jan-Peter Weiss
+  year: Jan, 2025
+  link:
+    url: https://www.nrsmboulder.org/2025/view_paper.php?PaperNum=1342
+    display: URSI NRSM, 2025
+    
+- title: "Interpolating SMAP Soil Moisture to 3 km using CYGNSS and Spire Reflectivity Observations: Regional Case Study"
+  image:
+  authors: Ming Li, Jiahua Zhang, Liza Wernicke, John J. Braun, Jan-Peter Weiss
+  year: Jan, 2025
+  link:
+    url: https://usncursi.org/archive/nrsm/2025/papers/1194.pdf
+    display: URSI NRSM, 2025
+
+- title: "Mapping Global Soil Moisture Content Using Spire GNSS-R Reflectivity Observations"
+  image:
+  authors: Jiahua Zhang, Jan-Peter Weiss, and John J. Braun
+  year: Dec, 2024
+  link:
+    url: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1701810
+    display: AGU Fall Meeting, 2024
+    
+- title: "Exploring Spire GNSS Reflections for Global Soil Moisture Monitoring"
+  image:
+  authors: Jiahua Zhang, Jan-Peter Weiss, and John J. Braun
+  year: Jul, 2024
+  link:
+    url: https://doi.org/10.1109/IGARSS53475.2024.10642541
+    display: IEEE IGARSS, 2024
+    
 - title: "Studying changes in permafrost areas using GNSS reflections"
   image:
   authors: Jiahua Zhang and Y. Jade Morton
   year: Jan, 2024
   link:
     url: 
-    display: IEEE URSI NRSM, 2024
+    display: URSI NRSM, 2024
     
 - title: "Measuring inland water surface heights using Spaceborne GNSS reflections"
   image:
