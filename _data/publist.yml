@@ -1,3 +1,17 @@
+- title: "Soil Moisture Estimation from Spire GNSS-Reflectometry Reflectivity: Semi-Empirical and Linear Regression Methods"
+  image:
+  authors: Jiahua Zhang, Jan-Peter Weiss, John J. Braun, Ming Li, William Gullotta, and Maggie Sleziak-Sallee
+  link:
+    url: 
+    display: IEEE Access, 2026, accepted
+
+- title: "Spire Near-Nadir GNSS-R for Sea Ice Detection: First Results"
+  image:
+  authors: Ming Li, Jiahua Zhang, Jan-Peter Weiss, John J. Braun, William Gullotta, and Maggie Sleziak-Sallee
+  link:
+    url: https://ieeexplore.ieee.org/document/11154035
+    display: IEEE Geoscience and Remote Sensing Letters, 2025
+    
 - title: "Inland Water Body Surface Height Retrievals Using CYGNSS Delay Doppler Maps"
   image:
   authors: Jiahua Zhang, Y. Jade Morton
